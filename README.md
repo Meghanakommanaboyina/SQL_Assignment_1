@@ -24,6 +24,7 @@ Using a database management tool (MySQL Workbench), executed SQL statements to c
 Added primary keys, foreign keys, and any necessary constraints to enforce data integrity and maintain the defined relationships between the tables.
 
 # EER Diagram
+<img width="771" alt="EER Diagram" src="https://github.com/Meghanakommanaboyina/SQL_Assignment_1/assets/96675077/138c4bce-f4b2-4686-bf00-ba83770215b0">
 
 # 1.Loaded Schema:
 Opened the database management tool (e.g., MySQL Workbench) and connected to the database where the schema was created.
